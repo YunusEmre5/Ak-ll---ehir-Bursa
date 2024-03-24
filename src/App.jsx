@@ -22,29 +22,6 @@ function App() {
       <h2><a href="Tramvay.jsx">Bursa Tramvay Durakları</a></h2>
       <br></br>
       <br></br>
-      <div className="bg-yellow">
-      <h3>HEYKEL</h3>
-      <h3>DEMİRTAŞPAŞA</h3>
-      <h3>SGK</h3>
-      <h3>ULUYOL</h3>
-      <h3>GAZCILAR</h3>
-      <h3>ÇARŞAMBA/MERİNOS</h3>
-      <h3>MESLEK YÜKSEK OKULU</h3>
-      <h3>BEŞYOL</h3>
-      <h3>KENT MEYDANI</h3>
-      <h3>OTOKOP-ORMAN BÖLGE</h3>
-      <h3>FATİH-ALTINOVA</h3>
-      <h3>KAYHAN</h3>
-      <h3>ULUCAMİ</h3>
-      <h3>BÖLGE ADLİYE-MÜFTÜLÜK</h3>
-      <h3>BUTTİM</h3>
-      <h3>YENİCEABAT</h3>
-      <h3>PANAYIR</h3>
-      <h3>GENÇ OSMAN</h3>
-      <h3>ALTIPARMAK</h3>
-      <h3>ADLİYE</h3>
-      <h3>OSMANGAZİ</h3>
-      <h3>TERMİNAL</h3></div>
       <img width="1358" src="https://www.burulas.com.tr/wp-content/uploads/Revizet1-guzergah-rayli-sistemler-tramvay.jpg"/>
     </div>
     </>

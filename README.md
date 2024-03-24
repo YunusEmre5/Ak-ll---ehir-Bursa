@@ -1,1 +1,1 @@
-Bursa'nın tramvay hatlarını ve Burulaş'ı ekledim. Bu sayede hem tramvay hatlarını hem de Burulaş'ın ana sayfasından Bursa'nın metro istasyonlarını da kolaylıkla kontrol edebilirsiniz.
+Bursa'nın tramvay hatlarını ve Burulaş'ı ekledim. Bu sayede hem tramvay hatlarını hem de Burulaş'ın ana sayfasından Bursa'nın metro istasyonlarını da kolaylıkla kontrol edebilirsiniz. Vercel eklendi.
